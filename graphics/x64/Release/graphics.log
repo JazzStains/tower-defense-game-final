@@ -1,0 +1,10 @@
+﻿  MainGame.cpp
+C:\stuff\graphics\graphics\MainGame.cpp(143,63): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+C:\stuff\graphics\graphics\MainGame.cpp(143,46): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+C:\stuff\graphics\graphics\MainGame.cpp(231,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  2 of 1176 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  graphics.vcxproj -> C:\stuff\graphics\x64\Release\graphics.exe

@@ -1,0 +1,7 @@
+﻿  TextureCache.cpp
+CEGUIOpenGLRenderer-0.lib(CEGUIOpenGLRenderer-0.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in CEGUIBase-0.lib(CEGUIBase-0.dll); second definition ignored
+SDL2.lib(SDL2.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in CEGUIBase-0.lib(CEGUIBase-0.dll); second definition ignored
+opengl32.lib(OPENGL32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in CEGUIBase-0.lib(CEGUIBase-0.dll); second definition ignored
+glew32.lib(glew32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in CEGUIBase-0.lib(CEGUIBase-0.dll); second definition ignored
+SDL2_ttf.lib(SDL2_ttf.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in CEGUIBase-0.lib(CEGUIBase-0.dll); second definition ignored
+  GameEngine.vcxproj -> C:\stuff\graphics\x64\Release\GameEngine.lib

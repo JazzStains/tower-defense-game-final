@@ -1,0 +1,3 @@
+﻿  BoarMan.cpp
+C:\stuff\graphics\graphics\BoarMan.cpp(5,14): warning C4305: '=': truncation from 'double' to 'float'
+  graphics.vcxproj -> C:\stuff\graphics\x64\Debug\graphics.exe
